@@ -2,9 +2,11 @@ ImmersiveAI
 ===========
 
 Torque Game AI Engine 
+
 created 2006 
-by [@gavinbunney] and 
-[@dawogfather]
+
+by https://github.com/gavinbunney/ and 
+https://github.com/dawogfather/
 
 Details
 -------
